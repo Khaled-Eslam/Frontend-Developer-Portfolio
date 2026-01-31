@@ -18,7 +18,7 @@ The project is built to practice:
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/Khaled-Eslam/Frontend-Developer-Portfolio.git
+git clone https://khaled-eslam.github.io/Frontend-Developer-Portfolio/
 
 2. Open `index2.html` in your browser.
 
