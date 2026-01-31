@@ -1,7 +1,7 @@
 # Frontend Developer Portfolio
 
 Project URL:  
-https://github.com/Khaled-Eslam/Frontend-Developer-Portfolio
+https://khaled-eslam.github.io/Frontend-Developer-Portfolio/
 
 This is a simple **HTML-only portfolio website**.
 
